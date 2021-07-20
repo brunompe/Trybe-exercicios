@@ -9,14 +9,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ### Introdução - Desenvolvimento web :hourglass_flowing_sand:
 ##### Bloco 1: Unix & Shell
 
-:white_check_mark: 1-3:  _Unix & Bash - Parte 1_
-:white_check_mark: 1-3:  _Unix & Bash - Parte 2_
+- [x] 1-3:  _Unix & Bash - Parte 1_
+- [x]  1-3:  _Unix & Bash - Parte 2_
    
 ##### Bloco 2: Git, GitHub e Internet
 
-:white_check_mark: 2-1:  _Git & GitHub - O que é e para que serve_
-:white_check_mark: 2-2:  _Git & GitHub - Entendendo os comandos_
-:white_check_mark: 2-3:  _Internet - Entendendo como ele funciona_
+- [x] 2-1:  _Git & GitHub - O que é e para que serve_
+- [x] 2-2:  _Git & GitHub - Entendendo os comandos_
+- [x]  2-3:  _Internet - Entendendo como ele funciona_
 
 ##### Bloco 3: Introdução à HTML e CSS
 
@@ -28,3 +28,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - 2-6: _Projeto - Lessons Learned_
 
 É só o começo de uma GRANDE JORNADA!!![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
+
+
