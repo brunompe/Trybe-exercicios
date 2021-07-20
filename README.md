@@ -16,16 +16,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 2-1:  _Git & GitHub - O que é e para que serve_
 - [x] 2-2:  _Git & GitHub - Entendendo os comandos_
-- [x]  2-3:  _Internet - Entendendo como ele funciona_
+- [x] 2-3:  _Internet - Entendendo como ele funciona_
 
 ##### Bloco 3: Introdução à HTML e CSS
 
-- 2-1:  _Introdução - HTML & CSS_
-- 2-1:  _HTML & CSS - Estrutura de página_
-- 2-3: _HTML & CSS - Primeiros passos em CSS_
-- 2-4: _HTML & CSS - Seletores e posicionamento_
-- 2-5: _HTML Semântico_
-- 2-6: _Projeto - Lessons Learned_
+- [ ]2-1:  _Introdução - HTML & CSS_
+- [ ]2-1:  _HTML & CSS - Estrutura de página_
+- [ ]2-3: _HTML & CSS - Primeiros passos em CSS_
+- [ ]2-4: _HTML & CSS - Seletores e posicionamento_
+- [ ]2-5: _HTML Semântico_
+- [ ]2-6: _Projeto - Lessons Learned_
 
 É só o começo de uma GRANDE JORNADA!!![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
 
